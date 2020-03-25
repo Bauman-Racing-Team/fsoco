@@ -1,0 +1,4 @@
+orange_small
+blue
+yellow
+orange_big
