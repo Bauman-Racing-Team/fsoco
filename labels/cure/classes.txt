@@ -1,4 +1,4 @@
-cone-yellow
 cone-blue
+cone-yellow
 cone-orange
 cone-orangebig
